@@ -1,0 +1,25 @@
+.rowpost {
+  margin-bottom: 20px;
+}
+
+.posters {
+  display: flex;
+  height: 400px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+
+.poster-box {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.poster {
+  width: 580px;
+  height: 300px;
+}
+
+h4 {
+  margin-top: 10px;
+}
